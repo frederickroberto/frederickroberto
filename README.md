@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi I'm Frederick 👋
+A person who takes high interest in technologies,  cryptocurrencies and loves to make programs
+
 🌱 I’m currently learning Informatics at Pembangunan Nasional "Veteran" Yogyakarta University
+
+<p align="left">
+<a href="https://github.com/frederickroberto">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=frederickroberto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=frederickroberto&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **frederickroberto/frederickroberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
